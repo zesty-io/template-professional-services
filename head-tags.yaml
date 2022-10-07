@@ -1,0 +1,38 @@
+
+  - type: "link"
+    attributes:
+      href: "https://mvxf7563.media.zestyio.com/zesty-acme-services-anchor.png"
+      rel: "icon"
+      sizes: "196x196"
+      type: "image/png"
+    sort: 0
+  - type: "link"
+    attributes:
+      href: "https://mvxf7563.media.zestyio.com/zesty-acme-services-anchor.png"
+      rel: "icon"
+      sizes: "196x196"
+      type: "image/png"
+    sort: 0
+  - type: "link"
+    attributes:
+      href: "https://fonts.googleapis.com/css?family=Open+Sans:400,700,400i"
+      rel: "stylesheet"
+    sort: 1
+  - type: "script"
+    attributes:
+      crossorigin: "anonymous"
+      integrity: "sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
+      src: "https://code.jquery.com/jquery-3.6.1.min.js"
+    sort: 0
+  - type: "link"
+    attributes:
+      href: "https://mvxf7563.media.zestyio.com/hyphen-logo-favicon.png"
+      rel: "icon"
+      sizes: "196x196"
+      type: "image/png"
+    sort: 0
+  - type: "meta"
+    attributes:
+      content: ""
+      name: ""
+    sort: 0

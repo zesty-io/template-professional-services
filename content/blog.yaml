@@ -1,0 +1,19 @@
+
+  - id: "2432-5ddb-dea4"
+    web:
+      metaDescription: ""
+      metaTitle: "Blog"
+      metaLinkText: "Blog"
+      metaKeywords: null
+      pathPart: "blog"
+      path: "/blog/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      blog_name: "Welcome to the blog!"
