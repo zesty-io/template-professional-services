@@ -1,13 +1,3 @@
-// You can add custom JavaScript here
-// or create additional files.
-//
-// Learn more here: https://developer.zesty.io/docs/code-editor/javascript-files/
-/*
-	Catalyst by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
-
 (function($) {
 
 	skel.breakpoints({
