@@ -1,7 +1,7 @@
-# Acme Services Template
+# Professional Services Template
 Preview: https://acmeservices.zesty.dev/
 
-A professional template with a blog feature that includes category tags and authors.
+A professional template with a blog feature that includes category tags and authors. Created by the Zesty.io team.
 
 ## Custom brand colors
 
