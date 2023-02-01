@@ -24,4 +24,6 @@ Create articles and organize them by categories. Each category will have its own
 This template has been optimized to display on any device!
 
 
-
+## Bottom Loading Javascript
+This template works best if your instance's JavaScript is loaded at the end of the html `body` rather than in the `head` element. Be sure to go to Settings > Developer and set `Automatically include JavaScript in head` to `NO`
+<img width="1307" alt="developer_settings" src="https://user-images.githubusercontent.com/9896546/216169032-70666d0b-1492-42cd-b100-2f9dbe502bdf.png">
